@@ -198,7 +198,7 @@ Por favor lee el [CONTRIBUTING.md](CONTRIBUTING.md) para detalles de nuestro có
 El proyecto está abierto a contribuciones. No dudes en hacer un _fork_ y proponer una mejora.
 
 # Autores
-* Orestes Sánchez @miceno: mantenimiento y moderación.
+* Orestes Sánchez [@miceno](https://github.com/miceno): mantenimiento y moderación.
 
 # Licencia
 
